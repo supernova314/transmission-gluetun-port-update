@@ -1,4 +1,4 @@
-module github.com/Michsior14/transmission-gluetun-port-update
+module github.com/supernova314/transmission-gluetun-port-update
 
 go 1.21
 
